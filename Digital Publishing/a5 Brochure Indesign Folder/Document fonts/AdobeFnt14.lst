@@ -1,0 +1,144 @@
+%!Adobe-FontList 1.14
+%Locale:0x1809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aliquam-UltraLight
+FamilyName:Aliquam
+StyleName:UltraLight
+FullName:Aliquam UltraLight
+MenuName:Aliquam
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\Aliquam.ttf
+DataFormat:sfntData
+FileLength:78384
+FileModTime:1327941180
+WeightClass:200
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aliquam
+FamilyName:Aliquam
+StyleName:Regular
+FullName:Aliquam
+MenuName:Aliquam
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\AliquamREG.ttf
+DataFormat:sfntData
+FileLength:81584
+FileModTime:1327941186
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aliquam-Italic
+FamilyName:Aliquam
+StyleName:Italic
+FullName:Aliquam Italic
+MenuName:Aliquam
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\AliquamRit.ttf
+DataFormat:sfntData
+FileLength:65920
+FileModTime:1328023250
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Bold
+MenuName:Helvetica
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\Helvetica Bold.ttf
+DataFormat:sfntData
+FileLength:53100
+FileModTime:1343831974
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaBQ-Black
+FamilyName:Helvetica BQ
+StyleName:Regular
+FullName:Helvetica* Black
+MenuName:Helvetica BQ
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\HelveticaBQ-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31884
+FileModTime:1343831976
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+FullName:Minion Pro Bold
+MenuName:Minion Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\MinionPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217028
+FileModTime:1329306826
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Andrew Mc Cormack\Desktop\Graphic design\Term 2\Brochure\A4\a5 Brochure Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329306826
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
